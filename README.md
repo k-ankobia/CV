@@ -29,7 +29,7 @@ _Built Autonomous toy robototics as a hoppy_
 
 ### <a name="experience">Professional experience</a>
 
-**Electrical Engineering Consultant** (Riverside, CA) 2006 – 2016
+**Electrical Engineering Consultant** (London) 2015 – 2018
 
 - Collaborated with Engineers, Contractors and Architects to contribute towards design of electrical infrastructure for ongoing commercial building projects such as Southbank Place and Beagle House.
 - Took ownership of electrical design and created effective 3D models to support calculations for the basements of the 285,000 sq ft ‘Beagle House’ infrastructure development scheme using building modelling software. Developed models and calculations for a stage 4 to carry out cost planning, load assessment calculations, circuiting and security to deliver effective professional services and drive efficient solutions.
