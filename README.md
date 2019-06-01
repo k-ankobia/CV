@@ -5,11 +5,10 @@
 **Curent student at makers academy.**
 [Makers Academy Fellow](https://makers.tech/fellowship/) and Meng Electrical & Electronic degree graduate with a solid grounding in engineering principles and its applications. Driving by a passion for tech and software I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and innovate.
 
-[Projects](#skills) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
-
+[LinkedIn](https://www.linkedin.com/in/kwaku-ankobia-1a51b656/) | [Projects](#projects) | [Skills](#Skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 ---
 
-### <a name="Projects">Projects</a>
+### Projects
 
 | Project | Description | Technology |
 |---------|-------------|------------|
@@ -20,23 +19,24 @@
 |[NoteApp](https://github.com/k-ankobia/Notes_App) | Frontend SinglePage app for taking notes developed and testing framework from scratch. | Vanilla Javascript for development and testing|
 |[Bank](https://github.com/k-ankobia/Bank_tech_test_) | Simple Ruby project focusing OOP, encapsualtion and cohesion for a tech test | Ruby, RSpec |
 
-### <a name="education">Education</a>
+## Skills
 
-**Software Developer Bootcamp: MAKERS ACADEMY** (London, UK)  
-_Dev bootcamp in Europe / 16-week program
-OOP, TDD, SOLID, MVC, DDD Software Craftsmanship Ruby, Rails, Javascript, Node.js, Angular.js Rspec, Jasmine, Mocha
-_
+####Industry Programming Practices 
 
-**MEng in Electronics & Electrial Engineering: Loughbrough University** (Loughrough, UK)  
-_Built Autonomous toy robototics as a hobby_
+Agile: JunglBook, MakersBnb [Pair programming, Agile methodologies, Sprint planning ]
+Test- Driven Development: Bank-Tech-Test
+Unit Testing: Airport challenge, 10-Minute-Walk 
+Automated testing/ Deployment  - JungleBook [contininous integration using Travis]
 
-### <a name="experience">Professional experience</a>
+Problem Solving 
+-Creative problem solver and analytical skills, studying MEng Electronics & Electrical engineering, I have applied technical skills in digital logic design, software and hardware. 
+-Working as an engineering consultant, I liaise with stakeholders and design engineering solutions to meet the scope of their requirements. 
+- Honed and apply a systematic approach to solving new problems using good industry practices at makers academy. 
 
-**Electrical Engineering Consultant** (London) 2015 – 2018
 
-- Collaborated with Engineers, Contractors and Architects to contribute towards design of electrical infrastructure for ongoing commercial building projects such as Southbank Place and Beagle House.
-- Took ownership of electrical design and created effective 3D models to support calculations for the basements of the 285,000 sq ft ‘Beagle House’ infrastructure development scheme using building modelling software. Developed models and calculations for a stage 4 report to carry out cost planning, load assessment calculations, circuiting and security to deliver effective professional services and drive efficient solutions.
+Adaptive learning
+-Work autonomously and take initiative to Self-learn python, javascript, C to deliver weekend/ electronics projects. 
+- Enjoy working in a collaborative environment where new ideas are valued
+-Language agnostic and can apply software patterns/principles in rails, javascript, react to deliver makers academy projects. 
+-Passion to learn exciting modern technologies with an experience working with web development stack and hardware electronics. 
 
-### Interests
-
-Sports, technology, music travel
