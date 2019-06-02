@@ -9,11 +9,11 @@
 
 ### Projects
 
-| Project | Description | Technology |
-|---------|:-------------:|:------------:|
+| Project     | Description | Technology |
+|-------------|:-------------:|:------------:|
 |[Fashion Finder](https://github.com/k-ankobia/fashion-finder)| An E-Commerce fashion web app that doubles as a fashion stylist inspired by tinder. | React, Firebase, Styled Components, Jest, Cypress, CodeClimate, Travis CI|
 |[RC Self Driving Car](https://github.com/k-ankobia/RC-Self-Driving-Car)| An autonomous self-driving car that navigates through a combination of machine learning, computer vision and electronics. A neural network is used to classify images for navigation. | Python, PyGame, Arduino, Raspberry Pi, PiCamera |
-|[Jungl-Book](https://github.com/k-ankobia/Acebook-Simian-Sinister) | A jungle themed clone of Facebook with a live stream of the safari. Users can sign up with profile pictures and post to the feed using CRUD functionality. |
+|[Jungl-Book](https://github.com/k-ankobia/Acebook-Simian-Sinister) | A jungle themed clone of Facebook with a live stream of the safari. Users can sign up with profile pictures and post to the feed using CRUD functionality. | Rails, RSpec/Capybara, Postgres with ActiveRecord,Devise Authentification, HTML, CSS |
 |[Bowling Challenge](https://github.com/Estevenson1994/bowling-challenge)| Bowling scorecard following the rules of 10 pin bowling | JavaScript, JQuery, HTML, Jasmine - unit and feature testing|
 |[NoteApp](https://github.com/k-ankobia/Notes_App) | Frontend SinglePage app for taking notes developed and testing framework from scratch. | Vanilla Javascript for development and testing|
 |[Bank](https://github.com/k-ankobia/Bank_tech_test_) | Simple Ruby project focusing OOP, encapsualtion and cohesion for a tech test | Ruby, RSpec |
@@ -30,14 +30,14 @@ Experience of using industy practices to complete projects:
 - **Automated testing/ Deployment**  - [JungleBook](https://github.com/k-ankobia/Acebook-Simian-Sinister) - Continous integration using Travis
 
 #### Problem Solving 
-- Creative problem solver and analytical skills, studying MEng Electronics & Electrical engineering, I have applied technical skills in digital logic design, software and hardware. 
+- Creative problem solver and analytical skills, studying MEng Electronics & Electrical. engineering, I have applied technical skills in digital logic design, software and hardware. 
 - Working as an engineering consultant, I liaise with stakeholders and design engineering solutions to meet the scope of their requirements. 
 - Honed and apply a systematic approach to solving new problems using good industry practices at makers academy. 
 
 
 #### Adaptive learning
 - Work autonomously and take initiative to Self-learn python, javascript, C to deliver weekend/ electronics projects. 
-- Enjoy working in a collaborative environment where new ideas are valued
+- Enjoy working in a collaborative environment where new ideas are valued.
 - Language agnostic and can apply software patterns/principles in rails, javascript, react to deliver makers academy projects. 
 - Passion to learn exciting modern technologies with an experience working with web development stack and hardware electronics. 
 
@@ -64,12 +64,24 @@ Masters Project: “A Platform for Evaluating Algorithms for Autonomous Cars”
 
 ## Professional experience
 
-Electrical Engineering Consultant (London) 2015 – 2018
+#### Electrical Engineering Consultant (London) 2015 – 2018
 
 - Collaborated with Engineers, Contractors and Architects to design of electrical infrastructure for commercial building projects.
 - Developed models and calculations to carry out load assessment, cost planning, circuiting and security to deliver effective professional services and drive efficient solutions.
 - Took ownership of electrical design and created effective 3D models to support calculations of the 285,000 sq ft ‘Beagle House’ infrastructure development scheme using building modelling software. 
-Chaired meetings with clients/stakeholders for requirements gathering.
+- Chaired meetings with clients/stakeholders for requirements gathering.
+
+#### CITI Bank Business Internship - Technology Intern	(July 2012 – August 2012)
+
+- Gained experience on the transparency of how technology support functions that underpin the revenue earners. 
+- Assisted in collating the ‘book of work’ for global markets infrastructure team to organise work carried out by each department and composed a technical report to present all findings for the team
+
+### Eurostar Engineering Temple Mills Depot -  (July 2010 -work Experience)
+
+- Reduced waste through maintenance repairs and diagnostic troubleshooting efforts with regards to Eurostar machinery for the recyclables services shed. 
+- Role permitted me to install electronic equipment with power tools whilst repairing damaged train compartments within repairable work shed
+
+
 
 ## Hobbies and Interests
 
