@@ -4,7 +4,7 @@
 
 [Makers Academy Fellow](https://makers.tech/fellowship/) and Meng Electrical & Electronic Engineering graduate with a solid grounding in engineering principles and its applications. My successful career in engineering has equipped me with a pragmatic approach to problem solving. I am driven by a passion for software and crave innovation. I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and collaborate in an environment where new ideas are valued.
 
-[LinkedIn](https://www.linkedin.com/in/kwaku-ankobia-1a51b656/) | [Projects](##projects) | [Skills](##Skills) | [Education](##education) | [Hobbies and Interests](##hobbies-and-interests)
+[LinkedIn](https://www.linkedin.com/in/kwaku-ankobia-1a51b656/) | [Projects](#projects) | [Skills](#Skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 ---
 
 ### Projects
