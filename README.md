@@ -19,8 +19,7 @@
 
 ## Skills
 
-#### Industry Programming Practices 
-Experience of using industy practices to complete projects: 
+#### Experience of using industy practices to complete projects: 
 
 
 - **Agile:** [JunglBook](https://github.com/k-ankobia/Acebook-Simian-Sinister), [Fashion Finder](https://github.com/k-ankobia/fashion-finder) - Pair programming, Scrum, Sprint planning 
@@ -42,7 +41,8 @@ Experience of using industy practices to complete projects:
 
 ## Education 
 
-Software Developer Bootcamp: Makers Academy (2019)
+#### Software Developer Bootcamp: Makers Academy (2019)
+
 Makers Academy honed my skills in applying a systematic approach to solving new problems using industry-best practices.
 Rigirous understanding of Test-Driven Development
 
@@ -54,20 +54,19 @@ Rigirous understanding of Test-Driven Development
 - Postgres, MongoDB, Firebase, Sequelize 
 
 
-MEng in Electronics & Electrical Engineering: Loughborough University ( 2012 - 2017) 
+#### MEng in Electronics & Electrical Engineering: Loughborough University ( 2012 - 2017) 
+Relevant modules: Software & Programming, Computer Security, Digital Electronics & Computer Networks.
 
 Studying MEng Electronics & Electrical engineering developed my creative problem solving and analytical skills. These are exemplified in my final year project, for which I applied technical skills in digital logic design, software and hardware to build a [remote-controlled autonomous car](https://github.com/k-ankobia/RC-Self-Driving-Car).
 
-Relevant modules: Software & Programming, Computer Security & Computer Networks
 
-Masters Project: “A Platform for Evaluating Algorithms for Autonomous Cars” 
 
 
 ## Professional experience
 
 #### Electrical Engineering Consultant (London) 2015 – 2018
+During my 3 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with stakeholders and designed engineering solutions to meet the scope of their requirements.
 
--During my 3 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with stakeholders and designed engineering solutions to meet the scope of their requirements.
 - Collaborated with Engineers, Contractors and Architects to design of electrical infrastructure for commercial building projects.
 - Developed models and calculations to carry out load assessment, cost planning, circuiting and security to deliver effective professional services and drive efficient solutions.
 - Took ownership of electrical design and created effective 3D models to support calculations of the 285,000 sq ft ‘Beagle House’ infrastructure development scheme using building modelling software. 
@@ -92,3 +91,4 @@ Masters Project: “A Platform for Evaluating Algorithms for Autonomous Cars”
 Sports: Regularly stay active playing football. 
 
 
+ 
