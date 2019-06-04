@@ -77,7 +77,7 @@ During my 3 years working as an engineering consultant at AECOM, ranked number 1
 - Gained experience on the transparency of how technology support functions that underpin the revenue earners. 
 - Assisted in collating the ‘book of work’ for global markets infrastructure team to organise work carried out by each department and composed a technical report to present all findings for the team
 
-### Eurostar Engineering Temple Mills Depot -  (July 2010 -work Experience)
+#### Eurostar Engineering Temple Mills Depot -  (July 2010 )
 
 - Reduced waste through maintenance repairs and diagnostic troubleshooting efforts with regards to Eurostar machinery for the recyclables services shed. 
 - Role permitted me to install electronic equipment with power tools whilst repairing damaged train compartments within repairable work shed
