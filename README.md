@@ -2,7 +2,7 @@
 
 #### Full Stack Developer
 
-[Makers Academy Fellow](https://makers.tech/fellowship/) and Meng Electrical & Electronic Engineering graduate with a solid grounding in engineering principles and its applications. My successful career in engineering has equipped me with a pragmatic approach to problem solving. I am driven by a passion for software and crave innovation. I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and collaborate in an environment where new ideas are valued.
+[Makers Academy Fellow](https://makers.tech/fellowship/) and MEng Electrical & Electronic Engineering graduate with a solid grounding in engineering principles and its applications. My successful career in engineering has equipped me with a pragmatic approach to problem solving. I am driven by a passion for technology and crave innovation. I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and collaborate in an environment where new ideas are valued.
 
 [LinkedIn](https://www.linkedin.com/in/kwaku-ankobia-1a51b656/) | [Projects](#projects) | [Skills](#Skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 ---
@@ -64,7 +64,7 @@ Studying MEng Electronics & Electrical engineering developed my creative problem
 
 ## Professional experience
 
-#### Electrical Engineering Consultant (London) 2015 – 2018
+#### Electrical Engineering Consultant (London 2015 – 2018 )
 During my 3 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with stakeholders and designed engineering solutions to meet the scope of their requirements.
 
 - Collaborated with Engineers, Contractors and Architects to design of electrical infrastructure for commercial building projects.
@@ -86,7 +86,7 @@ During my 3 years working as an engineering consultant at AECOM, ranked number 1
 
 ## Hobbies and Interests
 
-- Music - Love and passions for music and I’m currently touring intimate live music venues to summer festivals. 
+- I have a love and passion for music and I’m currently touring intimate live music venues in London or music festivals abroad. 
 - Volunteering: Currently work closely with Arrival Education and ACDiversity to share experiences related to studying STEM and engineering. 
 Sports: Regularly stay active playing football. 
 
