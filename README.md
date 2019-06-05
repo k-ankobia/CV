@@ -2,7 +2,7 @@
 
 #### Full Stack Developer
 
-[Makers Academy Fellow](https://makers.tech/fellowship/) and MEng Electrical & Electronic Engineering graduate with a solid grounding in engineering principles and its applications. My successful career in engineering has equipped me with a pragmatic approach to problem solving. I am driven by a passion for technology and crave innovation. I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and collaborate in an environment where new ideas are valued.
+[Makers Academy Fellow](https://makers.tech/fellowship/) and MEng Electrical & Electronic Engineering graduate with a solid grounding in engineering principles and its applications. My successful career in engineering has equipped me with a pragmatic approach to problem solving. I am driven by my passion for technology and crave innovation. I'm looking for an opportunity to join a fast-paced software team to solve challenging problems and collaborate in an environment where new ideas are valued.
 
 [LinkedIn](https://www.linkedin.com/in/kwaku-ankobia-1a51b656/) | [Projects](#projects) | [Skills](#Skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 ---
@@ -43,8 +43,7 @@
 
 #### Software Developer Bootcamp: Makers Academy (2019)
 
-Makers Academy honed my skills in applying a systematic approach to solving new problems using industry-best practices.
-Rigirous understanding of Test-Driven Development
+Makers Academy honed my skills in applying a systematic approach to solving new problems using industry-best practices. I gained a rigorous understanding of Test-Driven Development.
 
 #### Technologies
 
